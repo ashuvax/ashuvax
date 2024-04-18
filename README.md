@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![ashuvax's github stats](https://github-readme-stats.vercel.app/api?username=ashuvax&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashuvax&layout=compact)
 
 ## Skills
 <img width="22px" title="Javascript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
